@@ -1,0 +1,22 @@
+$primary: #2a9d8f;
+
+
+.backColor {
+  background-color: black;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+input::-webkit-outer-spin-button
+ {
+        input::-webkit-inner-spin-button
+        {
+                -webkit-appearance: none;
+                margin: 0;
+
+        }
+}
